@@ -1,4 +1,4 @@
-# Contributing to GoShip
+# Contributing to Go-ShipIt
 
 First off, thank you for considering contributing! 🚀  
 These guidelines will help you submit code, report bugs, and request features in a way that keeps the project organized and maintainable.
