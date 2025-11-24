@@ -73,4 +73,4 @@ fix(parser): handle empty input without panic
 
 ---
 
-Thank you for contributing! 💛 Together, we make GoShip better for everyone.
+Thank you for contributing! 💛 Together, we make Go-ShipIt better for everyone.
